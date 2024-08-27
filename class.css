@@ -1,0 +1,85 @@
+div{
+    position: fixed;
+    
+    background-color: brown;
+    color: aliceblue;
+    height: 50px;
+    width: 100%;
+    top: 0%;
+    
+    text-align: center;
+    padding: 10px;
+}
+
+
+.none{
+    float:left ;
+    z-index:-1;
+    position:absolute;
+    
+    
+    
+    top: 100px;
+    left: 1%;
+}
+.frist{
+    z-index: -1;
+    
+    top: 100px; 
+    right: 1%;
+    position:absolute;
+}
+.second{
+    top: 50%; 
+    right: 40%;
+    position:absolute;
+    border-radius: 20px;
+    z-index: -1;
+}
+.three{
+    top: 40%; 
+    left: 1%;
+    position:absolute;
+    z-index: -1;
+}
+.four{
+    top: 40%; 
+    right: 1%;
+    position:absolute;
+    z-index: -1;
+}
+.five{
+    top: 80%; 
+    right: 1%;
+    position:absolute;
+    z-index: -1;
+}
+.six{
+    top: 80%; 
+    left: 1%;
+    position:absolute;
+    z-index: -1;
+}
+.seven{
+    top: 110%; 
+    right: 1%;
+    position:absolute;
+    z-index: -1;
+}
+.eight{
+    position: absolute;
+    left: 1%;
+    top: 110%;
+    z-index: -1;
+}
+.nine{
+    z-index: -1;
+    top: 90%;
+    right: 40%;
+    border-radius: 50%;
+    position: absolute;
+}
+
+
+
+  
